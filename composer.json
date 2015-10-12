@@ -1,0 +1,15 @@
+{
+  "name": "CS3620/Project1-POC",
+  "description": "Proof of concept for project 1 API.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Tyler Cazier",
+      "email": "tylercazier@weber.mail.edu"
+    }
+  ],
+  "require": {
+    "silex/silex": "^1.3"
+  }
+}
